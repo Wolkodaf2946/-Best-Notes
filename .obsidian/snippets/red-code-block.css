@@ -1,0 +1,49 @@
+/* Стиль для блока кода с языком "error" */
+.markdown-rendered code[class*='language-err'],
+.markdown-source-view code[class*='language-err'] {
+	background-color: #330000; /* Тёмно-красный фон */
+	color: #ff6666; /* Светло-красный текст */
+	border: 1px solid #ff0000; /* Ярко-красная рамка */
+	padding: 0.2em 0.4em; /* Отступы */
+	border-radius: 3px; /* Закруглённые углы */
+}
+
+/* Стиль для блока кода в режиме предпросмотра */
+.markdown-rendered pre[class*='language-err'] {
+	background-color: #330000; /* Тёмно-красный фон */
+	border: 1px solid #ff0000; /* Ярко-красная рамка */
+	padding: 1em; /* Отступы */
+	border-radius: 5px; /* Закруглённые углы */
+}
+
+/* Стиль для блока кода в режиме редактирования */
+.markdown-source-view pre[class*='language-err'] {
+	background-color: #330000; /* Тёмно-красный фон */
+	border: 1px solid #ff0000; /* Ярко-красная рамка */
+	padding: 1em; /* Отступы */
+	border-radius: 5px; /* Закруглённые углы */
+}
+
+/* Анимация для блока кода с ошибкой */
+.markdown-rendered pre[class*='language-err'],
+.markdown-source-view pre[class*='language-err'] {
+	animation: pulse 2s infinite; /* Пульсация */
+}
+
+@keyframes pulse {
+	0% {
+		border-color: #ff0000;
+	}
+	50% {
+		border-color: #ff6666;
+	}
+	100% {
+		border-color: #ff0000;
+	}
+}
+
+/* Тень для блока кода */
+.markdown-rendered pre[class*='language-err'],
+.markdown-source-view pre[class*='language-err'] {
+	box-shadow: 0 0 10px rgba(255, 0, 0, 0.5); /* Красная тень */
+}

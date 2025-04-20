@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "270624de4fbb9c5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b86dd5667f8357b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2aa0fb82c8c15fe9",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "313ae16e87c6d56d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dcf9da29e98349f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f60dc12d0a703b1b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "0c47af25f0b843ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "7548a5766d3558e9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 331
+  },
+  "right": {
+    "id": "01dd59400f4778c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3303e1ef4e2bef1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "312b67ba87bd1562",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "46b5f720c2c2dfb4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Основы Python/ЕГЭ/ЕГЭ-25 Маски. Делители.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из ЕГЭ-25 Маски. Делители"
+            }
+          },
+          {
+            "id": "15814b1fefdbad71",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "293de91faf578dc6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Основы Python/ЕГЭ/ЕГЭ-25 Маски. Делители.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура ЕГЭ-25 Маски. Делители"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "2aa0fb82c8c15fe9",
+  "lastOpenFiles": [
+    "README.md",
+    "_Resours/Шаблоны/IT-выноски/Python - code.md",
+    "_Resours/Шаблоны/Таблица.md",
+    "_Resours/Шаблоны/IT-выноски/Python - code.output.md",
+    "_Resours/Шаблоны/Выноски/Опасность.md",
+    "_Resours/Шаблоны/Выноски/Дела.md",
+    "_Resours/Шаблоны/Основные шаблоны.md",
+    "_Resours/Шаблоны/Выноски.md",
+    "GO (Golang)/1. Основы Go/7. Восстановление после сбоев/1. defer.md",
+    "MkDown.md",
+    "Без названия.md",
+    "Черновик/Классные работы.md",
+    "Черновик/1..md",
+    "Git/10. Перебазирование.md",
+    "Git/11. Запросы на включение (запросы на слияние).md",
+    "GO (Golang)/1. Основы Go/6. Интерфейсы/6. Пустой интерфейс.md",
+    "GO (Golang)/1. Основы Go/6. Интерфейсы/2. Интерфейсы.md",
+    "GO (Golang)/1. Основы Go/6. Интерфейсы/3. Утверждение типа.md",
+    "GO (Golang)/1. Основы Go/6. Интерфейсы/4. Интерфейс error.md",
+    "GO (Golang)/1. Основы Go/6. Интерфейсы/5. Интерфейс Stringer.md",
+    "INFO Sec/Метод скрытой аутентификации.md",
+    "HTML/1. Элементарные команды.md",
+    "HTML/0. Введение.md",
+    "Git/9. Конфликты слияния.md",
+    "GO (Golang)/1. Основы Go/5. Структуры и типы/2. Определения типов.md",
+    "GO (Golang)/1. Основы Go/5. Структуры и типы/3. Применение указателей в структурах.md",
+    "GO (Golang)/1. Основы Go/7. Восстановление после сбоев/Без названия",
+    "GO (Golang)/1. Основы Go/7. Восстановление после сбоев",
+    "Без названия.canvas",
+    "_Resours/_Material/2025-03-04 14-31-45.mkv",
+    "_Resours/_Material/ЕГЭ-27.png",
+    "_Resours/_Material/douhvo.jpg",
+    "_Resours/_Material/git_1.png",
+    "_Resours/_Material/git_helper.png",
+    "_Resours/_Material/git123.png",
+    "_Resours/_Material/gitbbb.png",
+    "_Resours/_Material/gitfff.png",
+    "_Resours/_Material/Pasted image 20241211152115.png",
+    "_Resours/_Material/Pasted image 20241220113241.png",
+    "_Resours/_Material/Pasted image 20250119000017.png",
+    "INFO Sec",
+    "GO (Golang)/2. BackEnd",
+    "Основы Python/4. Списки, строки, кортежи/Списки",
+    "Основы Python/1. Простейшие программы/Арифметические выражения",
+    "Основы Python/ЕГЭ",
+    "Черновик",
+    "Основы Python/8. ООП (Объектно-ориентированное программирование)",
+    "GO (Golang)/Без названия.canvas",
+    "Без названия 2.canvas",
+    "Без названия 1.canvas"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "attachmentFolderPath": "_Resours/_Material",
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "Tabloid",
+    "landscape": true,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "readableLineLength": false,
+  "showLineNumber": false
+}

@@ -1,0 +1,14 @@
+{
+  "accentColor": "#d400ff",
+  "theme": "obsidian",
+  "cssTheme": "Encore",
+  "enabledCssSnippets": [
+    "callout",
+    "Image Align",
+    "custom_callout",
+    "red-code-block",
+    "center_text"
+  ],
+  "nativeMenus": false,
+  "showRibbon": true
+}

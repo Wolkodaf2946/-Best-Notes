@@ -1,0 +1,51 @@
+{
+  "backgroundTheme": "custom",
+  "customBackground": "https://motionbgs.com/media/6069/minecraft-aquarium.jpg",
+  "localBackgrounds": [],
+  "showTopLeftSearchButton": true,
+  "topLeftSearchProvider": {
+    "command": "switcher:open",
+    "display": "Obsidian Core Quick Switcher"
+  },
+  "showTime": true,
+  "timeFormat": "24-hour",
+  "showGreeting": true,
+  "greetingText": "Привет, хорошо проведи время :D",
+  "showInlineSearch": true,
+  "inlineSearchProvider": {
+    "command": "switcher:open",
+    "display": "Obsidian Core Quick Switcher"
+  },
+  "showRecentFiles": true,
+  "showBookmarks": true,
+  "bookmarkSource": "all",
+  "bookmarkGroup": "",
+  "showQuote": true,
+  "quoteSource": "My quotes",
+  "customQuotes": [
+    {
+      "text": "Не ждите чуда, чудите сами!!",
+      "author": "Настя/вожатая из ВДЦ \"Океан\""
+    },
+    {
+      "text": "Тот, у кого хватит храбрости и терпения всю жизнь вглядываться во мрак, первым увидит в нем проблеск света.",
+      "author": "Хан/Metro 2033"
+    },
+    {
+      "text": "Лучше обосраться, чем не срать всю жизнь и копить в себе это всё дерьмо",
+      "author": "Пончик/Южный сталкер"
+    },
+    {
+      "text": "Ты должен быть сильным, иначе зачем тебе быть?",
+      "author": "Виктор Цой/\"Мама, мы все тяжело больны\""
+    },
+    {
+      "text": "Только терпеть и ждать. Уже не верить и мечтать",
+      "author": "Несогласие/\"Терпеть и ждать\""
+    },
+    {
+      "text": "Ты получил то, чего давно хотел, но потерял то, что когда-то имел... но счастья так и нет...\n\nНО СЧАСТЬЯ ТАК И НЕТ!!!",
+      "author": "Несогласие/\"Небо плачет кровью\""
+    }
+  ]
+}

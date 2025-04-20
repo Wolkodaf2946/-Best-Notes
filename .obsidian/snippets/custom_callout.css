@@ -1,0 +1,58 @@
+.callout[data-callout='accept'] {
+	--callout-color: 87, 255, 111;
+	--callout-icon: monitor-down;
+}
+
+.callout[data-callout='ide'] {
+	--callout-color: 234, 255, 208;
+	--callout-icon: code-xml;
+}
+
+.callout[data-callout='code'] {
+	--callout-color: 251, 66, 255;
+	--callout-icon: file-terminal;
+}
+
+.callout[data-callout='output'] {
+	--callout-color: 0, 250, 205;
+	--callout-icon: file-code-2;
+}
+
+.callout[data-callout='star'] {
+	--callout-color: 255, 203, 87;
+	--callout-icon: sparkles;
+}
+
+.callout[data-callout='fox'] {
+	--callout-color: 250, 88, 0;
+	--callout-icon: gitlab;
+}
+
+.callout[data-callout='terminal'] {
+	--callout-color: 153, 153, 153;
+	--callout-icon: archive-restore;
+}
+
+.callout[data-callout='relax'] {
+	--callout-color: 202, 255, 112;
+	--callout-icon: tree-palm;
+}
+
+/* ---------------------- */
+.callout[data-callout='excel'] {
+	--callout-color: 35, 255, 15;
+	--callout-border: 29, 180, 20;
+	--callout-icon: album;
+	color: white !important;
+}
+
+.callout[data-callout='excel'] .callout-title,
+.callout[data-callout='excel'] .callout-content {
+	color: white !important;
+}
+
+.callout[data-callout='excel'] .callout-icon {
+	filter: brightness(0) invert(1);
+}
+
+/* ---------------------- */
